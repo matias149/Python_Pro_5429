@@ -3,7 +3,6 @@ meme_dict = {
             "LOL": "Una respuesta común a algo gracioso",
             "OMG": "Expresion de asombro",
             "NASHE": "Algo asombroso o divertido esta pasando",
-            "WTF": "Que carajo?"
 
             }
 
